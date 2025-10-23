@@ -1,1 +1,1 @@
-# plugin helper jquerry class for codychat addons developers
+# PluginHelper.js jquery class for codychat addons developers
