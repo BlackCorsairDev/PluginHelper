@@ -1,6 +1,6 @@
 /**
  * Plugin Name: PluginHelper
- * Version: 1.1.0
+ * Version: 1.0.10
  * Description: A lightweight and flexible JavaScript class for [codychat addons development].
  * Author: [BlackCorsair]
  * Author URI: [https://codychat.store]
